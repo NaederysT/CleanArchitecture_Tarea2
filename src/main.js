@@ -1,0 +1,1 @@
+console.log("Hola profe, necesitamos un 7,0. Atentamente: Nadine Diaz, Benjamín Ayala");

@@ -1,7 +1,7 @@
 {
   "name": "cleanarchitecture_tarea2",
   "version": "1.0.0",
-  "description": "Proyecto Hola Mundo usando Clean Architecture en Node.js",
+  "description": "Proyecto base modular para Clean Architecture en Node.js",
   "type": "module",
   "main": "src/main.js",
   "scripts": {
