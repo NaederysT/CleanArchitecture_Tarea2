@@ -1,21 +1,13 @@
 {
   "name": "cleanarchitecture_tarea2",
   "version": "1.0.0",
-  "description": "Este proyecto es una aplicación básica desarrollada en Node.js utilizando el patrón de diseño Clean Architecture",
-  "main": "index.js",
+  "description": "Proyecto Hola Mundo usando Clean Architecture en Node.js",
+  "type": "module",
+  "main": "src/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NaederysT/CleanArchitecture_Tarea2.git"
+    "start": "node src/main.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/NaederysT/CleanArchitecture_Tarea2/issues"
-  },
-  "homepage": "https://github.com/NaederysT/CleanArchitecture_Tarea2#readme"
+  "license": "ISC"
 }
